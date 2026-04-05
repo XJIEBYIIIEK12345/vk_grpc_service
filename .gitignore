@@ -1,0 +1,28 @@
+# Compiled files
+*.class
+target/
+
+# IDE files
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+.metadata/
+bin/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven local repository (optional)
+.m2/
+
+# Generated sources
+target/generated-sources/
+
+# Application properties with sensitive data (optional)
+# application-local.properties
